@@ -30,8 +30,8 @@ function Login() {
         <div className="login">
             <div className="login_container" >
                 <img src={'https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg'} alt='' />
-                <h1>Slack Clone by gaurav</h1>
-                <p>kadbcbdwcdcd</p>
+                <h1>My First React App</h1>
+                <p>Safe Login with Google(Firebase Auth)</p>
                 <Button onClick={signIn} > Sign In with Google </Button>
             </div>
 

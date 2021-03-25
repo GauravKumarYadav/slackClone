@@ -20,6 +20,7 @@ function ChatInput({channelName,channelId}) {
                 user: user.displayName,
                 userImage:user.photoURL,
             });
+            setInput('');
         }
     }
 

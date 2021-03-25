@@ -20,7 +20,7 @@ function Home() {
                         <Chat />
                     </Route>
                     <Route path="/">
-                        <h2>Welcomee</h2>
+                        <h2>Welcome</h2>
                     </Route>
                 </Switch>
             </div>
